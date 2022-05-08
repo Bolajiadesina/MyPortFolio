@@ -1,2 +1,0 @@
-# MyPortFolio
-My persional protfolio 
